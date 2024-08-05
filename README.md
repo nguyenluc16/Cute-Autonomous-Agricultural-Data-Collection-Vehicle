@@ -1,4 +1,4 @@
-# Autonomous Agricultural Data Collection Vehicle
+# Cute Autonomous Agricultural Data Collection Vehicle with STM32F103C8T6 
 
 This project involves the design and implementation of an autonomous vehicle aimed at collecting agricultural environmental data. The vehicle is equipped with various sensors and uses advanced algorithms to navigate and map the environment, while collecting crucial data to assist in agricultural monitoring and decision-making.
 
@@ -23,6 +23,7 @@ The autonomous vehicle is designed to:
 ## Hardware Components
 
 - **Microcontroller**: STM32F1
+- **Embedded Computer**: Linux Ubuntu OS
 - **Motor Controller**: PID-based motor control
 - **Sensors**:
   - LiDAR for mapping and obstacle detection
